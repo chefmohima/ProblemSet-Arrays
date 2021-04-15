@@ -1,3 +1,4 @@
+# IC - Partition array
 # Dutch National Flag Problem: Given an array of integers A and a pivot, rearrange A in the following order:
 # [Elements less than pivot, elements equal to pivot, elements greater than pivot]
 
